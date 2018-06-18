@@ -8,14 +8,11 @@
   },
   "scripts": {
     "pm2": "node_modules/.bin/pm2",
-    "servers": "node start.js",
     "servers:dev": "node start.js dev",
     "servers:prod": "node start.js prod-mode",
     "servers:mix": "node start.js mix-mode",
-    "tables:create": "node action.js TABLES-CREATE2",
-    "tables:refresh": "node action.js TABLES-REFRESH",
-    "testdata:refresh": "node action.js TESTDATA-REFRESH",
     "test": "node_modules/.bin/mocha servers/test"
+    "webpack": "node webpack.js"
   },
   "author": "",
   "license": "ISC",
