@@ -1,0 +1,23 @@
+[
+  ["BadRequest", "warn", 400],
+  ["Unauthorized", "warn", 401],
+  ["PaymentRequired", "warn", 402],
+  ["Forbidden", "warn", 403],
+  ["NotFound", "warn", 404],
+  ["MethodNotAllowed", "error", 405],
+  ["NotAcceptable", "error", 406],
+  ["RequestTimeout", "error", 408],
+  ["Conflict", "error", 409],
+  ["UnprocessableEntity", "error", 422],
+  ["TooManyRequests", "error", 429],
+  ["ServerError", "error", 500],
+  ["NotImplemented", "error", 501],
+  ["BadGateway", "error", 502],
+  ["ServiceUnavailable", "error", 503],
+  ["OK", "success", 200],
+  ["Created", "success", 201],
+  ["Accepted", "success", 202],
+  ["NoContent", "success", 204],
+  ["ResetContent", "success", 205],
+  ["PartialContent", "success", 206]
+]

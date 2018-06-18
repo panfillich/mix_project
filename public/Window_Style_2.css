@@ -1,0 +1,164 @@
+.Window {
+	background-color: rgba(92, 117, 152, 0.9);
+}
+.FirstSectionBody{
+	background-color: rgba(92, 184, 215, 0.3);
+}
+.TextAreaSection {
+	background-color: rgba(255, 251, 250, 0.8);
+}
+.ButtonSection {
+	background-color: rgba(255, 251, 250, 0.8);
+}
+.SecondSectionBody {
+	background-color: rgba(255, 251, 250, 0.8);
+}
+textarea {
+	background-color: rgba(250, 244, 205, 0.3);
+}
+button {
+	border-radius: 5px; border: 1px solid rgb(203, 19, 45); border-image: none; color: white; font-weight: bold; background-color: rgba(92, 117, 152, 0.9);
+}
+button:hover {
+	border-radius: 5px; border: 1px solid rgb(92, 117, 152); border-image: none; color: rgb(57, 66, 103); font-weight: bold; background-color: rgba(255, 251, 250, 0.8);
+}
+.list-group li > div:first-child {
+	background-color: rgba(250, 244, 205, 0.3);
+}
+.list-group li > div:last-child {
+	background-color: rgba(255, 251, 250, 1);
+}
+.list-group li > div:first-child:hover {
+	color: white; background-color: rgba(92, 117, 152, 0.9);
+}
+.list-group li > div:last-child:hover {
+	color: white; background-color: rgba(92, 117, 152, 0.9);
+}
+.SecondSectionBody {
+	border: 1px solid rgb(203, 19, 45); border-image: none;
+}
+.TextAreaSection {
+	border-top-color: rgb(203, 19, 45); border-right-color: rgb(203, 19, 45); border-left-color: rgb(203, 19, 45); border-top-width: 1px; border-right-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-left-style: solid;
+}
+.ButtonSection {
+	border-right-color: rgb(203, 19, 45); border-bottom-color: rgb(203, 19, 45); border-left-color: rgb(203, 19, 45); border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;
+}
+textarea {
+	border: 1px solid rgb(92, 117, 152); border-image: none;
+}
+.Window {
+	left: 25%; top: 25%; width: 50%; height: 50%; position: absolute;
+}
+.Window > .Content {
+	width: 100%; height: 100%; position: relative;
+}
+.FirstSectionBody,
+.SecondSectionBody{
+	width: 100%; height: 100%; position: relative;
+}
+.SecondSectionBody {
+	width: 100%; position: relative;
+}
+.TextAreaSection > div {
+	width: 100%; height: 100%; position: relative;
+}
+.ButtonSection > div {
+	width: 100%; height: 100%; position: relative;
+}
+.FirstSection {
+	width: 50%; height: 100%; position: absolute;
+}
+.SecondSection {
+	width: 50%; height: 100%; position: absolute;
+}
+.FirstSection {
+	left: 0px; top: 0px;
+}
+.SecondSection {
+	top: 0px; right: 0px;
+}
+.TextAreaSection {
+	width: 100%; height: 50%; position: absolute;
+}
+.ButtonSection {
+	width: 100%; height: 50%; position: absolute;
+}
+.TextAreaSection {
+	top: 0px;
+}
+.ButtonSection {
+	bottom: 0px;
+}
+.TextAreaSection > div > textarea {
+	width: 100%; height: 100%; bottom: 0px; position: absolute;
+}
+.ButtonSection > div > div:first-child {
+	width: 50%; height: 100%; position: absolute;
+}
+.ButtonSection > div > div:last-child {
+	width: 50%; height: 100%; position: absolute;
+}
+.ButtonSection > div > div:first-child {
+	right: 0px;
+}
+.ButtonSection button {
+	width: 100%; height: 40px;
+}
+.Window {
+	padding: 5px; border-radius: 10px;
+}
+.FirstSection {
+	padding: 5px;
+}
+.SecondSection {
+	padding: 5px;
+}
+.FirstSectionBody {
+	border-radius: 5px;
+}
+.SecondSectionBody {
+	border-radius: 5px;
+}
+.SecondSectionBody {
+	padding: 10px;
+}
+.TextAreaSection {
+	padding: 10px;
+}
+.ButtonSection {
+	padding: 10px;
+}
+.ButtonSection > div > div:first-child {
+	padding: 10px;
+}
+.ButtonSection > div > div:last-child {
+	padding: 10px;
+}
+.SecondSectionBody {
+	-ms-overflow-y: auto;
+}
+textarea {
+	border-radius: 5px;
+}
+.ButtonSection > div > div:first-child {
+	padding: 0px 10px 10px;
+}
+.ButtonSection > div > div:last-child {
+	padding: 0px 10px 10px;
+}
+.TextAreaSection {
+	border-radius: 5px 5px 0px 0px;
+}
+.ButtonSection {
+	border-radius: 0px 0px 5px 5px;
+}
+.list-group {
+	margin: 0px; padding: 0px;
+	list-style-type: none;
+}
+.list-group li > div:first-child {
+	padding: 7px 10px; height: 40px; font-size: 20px; font-weight: bold;
+}
+.list-group li > div:last-child {
+	padding: 6px 10px; height: 30px; font-size: 16px; font-weight: bold;
+}

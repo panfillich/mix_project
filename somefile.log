@@ -1,0 +1,321 @@
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4012"}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4013"}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4011"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4013"}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4011"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4012"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4011"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4013"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4012"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"dev":{"unix_time":1513775320647,"server_time":"2017-12-20T13:08:41.647Z","port":"4012","server":"pub_api","req":{"method":"GET","url":"/test/error/7568","body":{},"headers":{"host":"localhost","connection":"close","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36","upgrade-insecure-requests":"1","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9,ru;q=0.8","cookie":"Webstorm-a055c715=dd799131-2d58-434b-ba36-d4ecc117610e"}},"res":{"headers":{"x-dns-prefetch-control":"off","x-frame-options":"SAMEORIGIN","strict-transport-security":"max-age=15552000; includeSubDomains","x-download-options":"noopen","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","access-control-allow-origin":"*","access-control-allow-methods":"GET, POST, OPTIONS, PUT, PATCH, DELETE","access-control-allow-headers":"X-Requested-With,content-type","access-control-allow-credentials":false,"content-type":"application/json"},"status":404}},"level":"warn","message":"Res Handler"}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4012"}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4011"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4013"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4011"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4012"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4013"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Connected to redis","level":"info"}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4012"}
+{"level":"info","message":"Server run on port: 4013"}
+{"message":"Connected to redis","level":"info"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Server run on port: 4011"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"dev":{"unix_time":1513776496248,"server_time":"2017-12-20T13:28:17.248Z","port":"4012","server":"pub_api","req":{"method":"GET","url":"/reg","body":{},"headers":{"host":"localhost","connection":"close","cache-control":"max-age=0","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36","upgrade-insecure-requests":"1","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9,ru;q=0.8","cookie":"Webstorm-a055c715=dd799131-2d58-434b-ba36-d4ecc117610e"}},"res":{"headers":{"x-dns-prefetch-control":"off","x-frame-options":"SAMEORIGIN","strict-transport-security":"max-age=15552000; includeSubDomains","x-download-options":"noopen","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","access-control-allow-origin":"*","access-control-allow-methods":"GET, POST, OPTIONS, PUT, PATCH, DELETE","access-control-allow-headers":"X-Requested-With,content-type","access-control-allow-credentials":false,"content-type":"application/json"},"status":404}},"level":"warn","message":"Res Handler"}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4011"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4012"}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4013"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"dev":{"unix_time":1513776679120,"server_time":"2017-12-20T13:31:20.120Z","port":"4012","server":"pub_api","req":{"method":"GET","url":"/reg","body":{},"headers":{"host":"localhost","connection":"close","cache-control":"max-age=0","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36","upgrade-insecure-requests":"1","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9,ru;q=0.8","cookie":"Webstorm-a055c715=dd799131-2d58-434b-ba36-d4ecc117610e"}},"res":{"headers":{"x-dns-prefetch-control":"off","x-frame-options":"SAMEORIGIN","strict-transport-security":"max-age=15552000; includeSubDomains","x-download-options":"noopen","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","access-control-allow-origin":"*","access-control-allow-methods":"GET, POST, OPTIONS, PUT, PATCH, DELETE","access-control-allow-headers":"X-Requested-With,content-type","access-control-allow-credentials":false,"content-type":"application/json"},"status":404}},"level":"warn","message":"Res Handler"}
+{"dev":{"unix_time":1513776706230,"server_time":"2017-12-20T13:31:47.230Z","port":"4013","server":"pub_api","req":{"method":"GET","url":"/reg","body":{},"headers":{"host":"localhost","connection":"close","user-agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:57.0) Gecko/20100101 Firefox/57.0","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br","cookie":"Webstorm-a055c715=dd799131-2d58-434b-ba36-d4ecc117610e","upgrade-insecure-requests":"1"}},"res":{"headers":{"x-dns-prefetch-control":"off","x-frame-options":"SAMEORIGIN","strict-transport-security":"max-age=15552000; includeSubDomains","x-download-options":"noopen","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","access-control-allow-origin":"*","access-control-allow-methods":"GET, POST, OPTIONS, PUT, PATCH, DELETE","access-control-allow-headers":"X-Requested-With,content-type","access-control-allow-credentials":false,"content-type":"application/json"},"status":404}},"level":"warn","message":"Res Handler"}
+{"dev":{"unix_time":1513776710216,"server_time":"2017-12-20T13:31:51.216Z","port":"4011","server":"pub_api","req":{"method":"GET","url":"/reg","body":{},"headers":{"host":"localhost","connection":"close","user-agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:57.0) Gecko/20100101 Firefox/57.0","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br","cookie":"Webstorm-a055c715=dd799131-2d58-434b-ba36-d4ecc117610e","upgrade-insecure-requests":"1","cache-control":"max-age=0"}},"res":{"headers":{"x-dns-prefetch-control":"off","x-frame-options":"SAMEORIGIN","strict-transport-security":"max-age=15552000; includeSubDomains","x-download-options":"noopen","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","access-control-allow-origin":"*","access-control-allow-methods":"GET, POST, OPTIONS, PUT, PATCH, DELETE","access-control-allow-headers":"X-Requested-With,content-type","access-control-allow-credentials":false,"content-type":"application/json"},"status":404}},"level":"warn","message":"Res Handler"}
+{"dev":{"unix_time":1513776739121,"server_time":"2017-12-20T13:32:20.121Z","port":"4012","server":"pub_api","error":{"message":"child \"login\" fails because [\"login\" is required]","stack":"ValidationError: child \"login\" fails because [\"login\" is required]\n    at Object.exports.process (/vagrant/node_modules/joi/lib/errors.js:196:19)\n    at internals.Object._validateWithOptions (/vagrant/node_modules/joi/lib/types/any/index.js:668:31)\n    at module.exports.internals.Any.root.validate (/vagrant/node_modules/joi/lib/index.js:139:23)\n    at /vagrant/servers/pub_api/controllers/reg.js:20:24\n    at /vagrant/servers/common_libs/async_middleware/index.js:17:23\n    at Layer.handle [as handle_request] (/vagrant/node_modules/express/lib/router/layer.js:95:5)\n    at next (/vagrant/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/vagrant/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/vagrant/node_modules/express/lib/router/layer.js:95:5)\n    at /vagrant/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/vagrant/node_modules/express/lib/router/index.js:335:12)\n    at next (/vagrant/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/vagrant/node_modules/express/lib/router/index.js:174:3)\n    at router (/vagrant/node_modules/express/lib/router/index.js:47:12)\n    at Layer.handle [as handle_request] (/vagrant/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/vagrant/node_modules/express/lib/router/index.js:317:13)\n    at /vagrant/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/vagrant/node_modules/express/lib/router/index.js:335:12)\n    at next (/vagrant/node_modules/express/lib/router/index.js:275:10)\n    at resHandler (/vagrant/servers/common_libs/res_handler/index.js:100:5)\n    at Layer.handle [as handle_request] (/vagrant/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/vagrant/node_modules/express/lib/router/index.js:317:13)","name":"ValidationError"},"validation":{"details":[{"message":"\"login\" is required","path":["login"],"type":"any.required","context":{"key":"login","label":"login"}}]},"req":{"method":"POST","url":"/reg","body":{},"headers":{"host":"localhost","connection":"close","content-length":"22","user-agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:57.0) Gecko/20100101 Firefox/57.0","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br","cookie":"Webstorm-a055c715=dd799131-2d58-434b-ba36-d4ecc117610e","upgrade-insecure-requests":"1","cache-control":"max-age=0, no-cache","pragma":"no-cache"}},"res":{"headers":{"x-dns-prefetch-control":"off","x-frame-options":"SAMEORIGIN","strict-transport-security":"max-age=15552000; includeSubDomains","x-download-options":"noopen","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","access-control-allow-origin":"*","access-control-allow-methods":"GET, POST, OPTIONS, PUT, PATCH, DELETE","access-control-allow-headers":"X-Requested-With,content-type","access-control-allow-credentials":false,"content-type":"application/json"},"status":400,"validation":{"is_valid_data_format":false,"is_unique_email":null,"is_unique_login":null}}},"level":"warn","message":"Res Handler"}
+{"dev":{"unix_time":1513776773373,"server_time":"2017-12-20T13:32:54.373Z","port":"4013","server":"pub_api","error":{"message":"child \"login\" fails because [\"login\" is required]","stack":"ValidationError: child \"login\" fails because [\"login\" is required]\n    at Object.exports.process (/vagrant/node_modules/joi/lib/errors.js:196:19)\n    at internals.Object._validateWithOptions (/vagrant/node_modules/joi/lib/types/any/index.js:668:31)\n    at module.exports.internals.Any.root.validate (/vagrant/node_modules/joi/lib/index.js:139:23)\n    at /vagrant/servers/pub_api/controllers/reg.js:20:24\n    at /vagrant/servers/common_libs/async_middleware/index.js:17:23\n    at Layer.handle [as handle_request] (/vagrant/node_modules/express/lib/router/layer.js:95:5)\n    at next (/vagrant/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/vagrant/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/vagrant/node_modules/express/lib/router/layer.js:95:5)\n    at /vagrant/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/vagrant/node_modules/express/lib/router/index.js:335:12)\n    at next (/vagrant/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/vagrant/node_modules/express/lib/router/index.js:174:3)\n    at router (/vagrant/node_modules/express/lib/router/index.js:47:12)\n    at Layer.handle [as handle_request] (/vagrant/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/vagrant/node_modules/express/lib/router/index.js:317:13)\n    at /vagrant/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/vagrant/node_modules/express/lib/router/index.js:335:12)\n    at next (/vagrant/node_modules/express/lib/router/index.js:275:10)\n    at resHandler (/vagrant/servers/common_libs/res_handler/index.js:100:5)\n    at Layer.handle [as handle_request] (/vagrant/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/vagrant/node_modules/express/lib/router/index.js:317:13)","name":"ValidationError"},"validation":{"details":[{"message":"\"login\" is required","path":["login"],"type":"any.required","context":{"key":"login","label":"login"}}]},"req":{"method":"POST","url":"/reg","body":{},"headers":{"host":"localhost","connection":"close","content-length":"19","user-agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:57.0) Gecko/20100101 Firefox/57.0","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br","cookie":"Webstorm-a055c715=dd799131-2d58-434b-ba36-d4ecc117610e","upgrade-insecure-requests":"1","cache-control":"max-age=0, no-cache","pragma":"no-cache"}},"res":{"headers":{"x-dns-prefetch-control":"off","x-frame-options":"SAMEORIGIN","strict-transport-security":"max-age=15552000; includeSubDomains","x-download-options":"noopen","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","access-control-allow-origin":"*","access-control-allow-methods":"GET, POST, OPTIONS, PUT, PATCH, DELETE","access-control-allow-headers":"X-Requested-With,content-type","access-control-allow-credentials":false,"content-type":"application/json"},"status":400,"validation":{"is_valid_data_format":false,"is_unique_email":null,"is_unique_login":null}}},"level":"warn","message":"Res Handler"}
+{"dev":{"unix_time":1513776851923,"server_time":"2017-12-20T13:34:12.923Z","port":"4011","server":"pub_api","error":{"message":"child \"password\" fails because [\"password\" is required]","stack":"ValidationError: child \"password\" fails because [\"password\" is required]\n    at Object.exports.process (/vagrant/node_modules/joi/lib/errors.js:196:19)\n    at internals.Object._validateWithOptions (/vagrant/node_modules/joi/lib/types/any/index.js:668:31)\n    at module.exports.internals.Any.root.validate (/vagrant/node_modules/joi/lib/index.js:139:23)\n    at /vagrant/servers/pub_api/controllers/reg.js:20:24\n    at /vagrant/servers/common_libs/async_middleware/index.js:17:23\n    at Layer.handle [as handle_request] (/vagrant/node_modules/express/lib/router/layer.js:95:5)\n    at next (/vagrant/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/vagrant/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/vagrant/node_modules/express/lib/router/layer.js:95:5)\n    at /vagrant/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/vagrant/node_modules/express/lib/router/index.js:335:12)\n    at next (/vagrant/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/vagrant/node_modules/express/lib/router/index.js:174:3)\n    at router (/vagrant/node_modules/express/lib/router/index.js:47:12)\n    at Layer.handle [as handle_request] (/vagrant/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/vagrant/node_modules/express/lib/router/index.js:317:13)\n    at /vagrant/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/vagrant/node_modules/express/lib/router/index.js:335:12)\n    at next (/vagrant/node_modules/express/lib/router/index.js:275:10)\n    at resHandler (/vagrant/servers/common_libs/res_handler/index.js:100:5)\n    at Layer.handle [as handle_request] (/vagrant/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/vagrant/node_modules/express/lib/router/index.js:317:13)","name":"ValidationError"},"validation":{"details":[{"message":"\"password\" is required","path":["password"],"type":"any.required","context":{"key":"password","label":"password"}}]},"req":{"method":"POST","url":"/reg","body":{"login":"tetstdl"},"headers":{"host":"localhost","connection":"close","content-length":"19","user-agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:57.0) Gecko/20100101 Firefox/57.0","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br","cookie":"Webstorm-a055c715=dd799131-2d58-434b-ba36-d4ecc117610e","upgrade-insecure-requests":"1","cache-control":"max-age=0, no-cache","pragma":"no-cache","content-type":"application/json"}},"res":{"headers":{"x-dns-prefetch-control":"off","x-frame-options":"SAMEORIGIN","strict-transport-security":"max-age=15552000; includeSubDomains","x-download-options":"noopen","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","access-control-allow-origin":"*","access-control-allow-methods":"GET, POST, OPTIONS, PUT, PATCH, DELETE","access-control-allow-headers":"X-Requested-With,content-type","access-control-allow-credentials":false,"content-type":"application/json"},"status":400,"validation":{"is_valid_data_format":false,"is_unique_email":null,"is_unique_login":null}}},"level":"warn","message":"Res Handler"}
+{"dev":{"unix_time":1513776878964,"server_time":"2017-12-20T13:34:39.964Z","port":"4012","server":"pub_api","error":{"message":"child \"password\" fails because [\"password\" with value \"1568sfdsf!vsf\" fails to match the required pattern: /^(?=.*\\d)(?=.*[a-z])(?=.*[A-Z])[0-9a-zA-Z]{8,30}$/]","stack":"ValidationError: child \"password\" fails because [\"password\" with value \"1568sfdsf!vsf\" fails to match the required pattern: /^(?=.*\\d)(?=.*[a-z])(?=.*[A-Z])[0-9a-zA-Z]{8,30}$/]\n    at Object.exports.process (/vagrant/node_modules/joi/lib/errors.js:196:19)\n    at internals.Object._validateWithOptions (/vagrant/node_modules/joi/lib/types/any/index.js:668:31)\n    at module.exports.internals.Any.root.validate (/vagrant/node_modules/joi/lib/index.js:139:23)\n    at /vagrant/servers/pub_api/controllers/reg.js:20:24\n    at /vagrant/servers/common_libs/async_middleware/index.js:17:23\n    at Layer.handle [as handle_request] (/vagrant/node_modules/express/lib/router/layer.js:95:5)\n    at next (/vagrant/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/vagrant/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/vagrant/node_modules/express/lib/router/layer.js:95:5)\n    at /vagrant/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/vagrant/node_modules/express/lib/router/index.js:335:12)\n    at next (/vagrant/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/vagrant/node_modules/express/lib/router/index.js:174:3)\n    at router (/vagrant/node_modules/express/lib/router/index.js:47:12)\n    at Layer.handle [as handle_request] (/vagrant/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/vagrant/node_modules/express/lib/router/index.js:317:13)\n    at /vagrant/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/vagrant/node_modules/express/lib/router/index.js:335:12)\n    at next (/vagrant/node_modules/express/lib/router/index.js:275:10)\n    at resHandler (/vagrant/servers/common_libs/res_handler/index.js:100:5)\n    at Layer.handle [as handle_request] (/vagrant/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/vagrant/node_modules/express/lib/router/index.js:317:13)","name":"ValidationError"},"validation":{"details":[{"message":"\"password\" with value \"1568sfdsf!vsf\" fails to match the required pattern: /^(?=.*\\d)(?=.*[a-z])(?=.*[A-Z])[0-9a-zA-Z]{8,30}$/","path":["password"],"type":"string.regex.base","context":{"pattern":{},"value":"1568sfdsf!vsf","key":"password","label":"password"}}]},"req":{"method":"POST","url":"/reg","body":{"login":"tetstdl","password":"1568sfdsf!vsf"},"headers":{"host":"localhost","connection":"close","content-length":"48","user-agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:57.0) Gecko/20100101 Firefox/57.0","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br","cookie":"Webstorm-a055c715=dd799131-2d58-434b-ba36-d4ecc117610e","upgrade-insecure-requests":"1","cache-control":"max-age=0, no-cache","pragma":"no-cache","content-type":"application/json"}},"res":{"headers":{"x-dns-prefetch-control":"off","x-frame-options":"SAMEORIGIN","strict-transport-security":"max-age=15552000; includeSubDomains","x-download-options":"noopen","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","access-control-allow-origin":"*","access-control-allow-methods":"GET, POST, OPTIONS, PUT, PATCH, DELETE","access-control-allow-headers":"X-Requested-With,content-type","access-control-allow-credentials":false,"content-type":"application/json"},"status":400,"validation":{"is_valid_data_format":false,"is_unique_email":null,"is_unique_login":null}}},"level":"warn","message":"Res Handler"}
+{"dev":{"unix_time":1513776892588,"server_time":"2017-12-20T13:34:53.588Z","port":"4013","server":"pub_api","error":{"message":"child \"password\" fails because [\"password\" with value \"1568sfdsf!vsf\" fails to match the required pattern: /^(?=.*\\d)(?=.*[a-z])(?=.*[A-Z])[0-9a-zA-Z]{8,30}$/]","stack":"ValidationError: child \"password\" fails because [\"password\" with value \"1568sfdsf!vsf\" fails to match the required pattern: /^(?=.*\\d)(?=.*[a-z])(?=.*[A-Z])[0-9a-zA-Z]{8,30}$/]\n    at Object.exports.process (/vagrant/node_modules/joi/lib/errors.js:196:19)\n    at internals.Object._validateWithOptions (/vagrant/node_modules/joi/lib/types/any/index.js:668:31)\n    at module.exports.internals.Any.root.validate (/vagrant/node_modules/joi/lib/index.js:139:23)\n    at /vagrant/servers/pub_api/controllers/reg.js:20:24\n    at /vagrant/servers/common_libs/async_middleware/index.js:17:23\n    at Layer.handle [as handle_request] (/vagrant/node_modules/express/lib/router/layer.js:95:5)\n    at next (/vagrant/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/vagrant/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/vagrant/node_modules/express/lib/router/layer.js:95:5)\n    at /vagrant/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/vagrant/node_modules/express/lib/router/index.js:335:12)\n    at next (/vagrant/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/vagrant/node_modules/express/lib/router/index.js:174:3)\n    at router (/vagrant/node_modules/express/lib/router/index.js:47:12)\n    at Layer.handle [as handle_request] (/vagrant/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/vagrant/node_modules/express/lib/router/index.js:317:13)\n    at /vagrant/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/vagrant/node_modules/express/lib/router/index.js:335:12)\n    at next (/vagrant/node_modules/express/lib/router/index.js:275:10)\n    at resHandler (/vagrant/servers/common_libs/res_handler/index.js:100:5)\n    at Layer.handle [as handle_request] (/vagrant/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/vagrant/node_modules/express/lib/router/index.js:317:13)","name":"ValidationError"},"validation":{"details":[{"message":"\"password\" with value \"1568sfdsf!vsf\" fails to match the required pattern: /^(?=.*\\d)(?=.*[a-z])(?=.*[A-Z])[0-9a-zA-Z]{8,30}$/","path":["password"],"type":"string.regex.base","context":{"pattern":{},"value":"1568sfdsf!vsf","key":"password","label":"password"}}]},"req":{"method":"POST","url":"/reg","body":{"login":"tetstdl","password":"1568sfdsf!vsf"},"headers":{"host":"localhost","connection":"close","content-length":"48","user-agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:57.0) Gecko/20100101 Firefox/57.0","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br","cookie":"Webstorm-a055c715=dd799131-2d58-434b-ba36-d4ecc117610e","upgrade-insecure-requests":"1","cache-control":"max-age=0, no-cache","pragma":"no-cache","content-type":"application/json"}},"res":{"headers":{"x-dns-prefetch-control":"off","x-frame-options":"SAMEORIGIN","strict-transport-security":"max-age=15552000; includeSubDomains","x-download-options":"noopen","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","access-control-allow-origin":"*","access-control-allow-methods":"GET, POST, OPTIONS, PUT, PATCH, DELETE","access-control-allow-headers":"X-Requested-With,content-type","access-control-allow-credentials":false,"content-type":"application/json"},"status":400,"validation":{"is_valid_data_format":false,"is_unique_email":null,"is_unique_login":null}}},"level":"warn","message":"Res Handler"}
+{"dev":{"unix_time":1513776964557,"server_time":"2017-12-20T13:36:05.557Z","port":"4011","server":"pub_api","error":{"message":"child \"password\" fails because [\"password\" with value \"1568sfdsf!vsf\" fails to match the required pattern: /^(?=.*\\d)(?=.*[a-z])(?=.*[A-Z])[0-9a-zA-Z]{8,30}$/]","stack":"ValidationError: child \"password\" fails because [\"password\" with value \"1568sfdsf!vsf\" fails to match the required pattern: /^(?=.*\\d)(?=.*[a-z])(?=.*[A-Z])[0-9a-zA-Z]{8,30}$/]\n    at Object.exports.process (/vagrant/node_modules/joi/lib/errors.js:196:19)\n    at internals.Object._validateWithOptions (/vagrant/node_modules/joi/lib/types/any/index.js:668:31)\n    at module.exports.internals.Any.root.validate (/vagrant/node_modules/joi/lib/index.js:139:23)\n    at /vagrant/servers/pub_api/controllers/reg.js:20:24\n    at /vagrant/servers/common_libs/async_middleware/index.js:17:23\n    at Layer.handle [as handle_request] (/vagrant/node_modules/express/lib/router/layer.js:95:5)\n    at next (/vagrant/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/vagrant/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/vagrant/node_modules/express/lib/router/layer.js:95:5)\n    at /vagrant/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/vagrant/node_modules/express/lib/router/index.js:335:12)\n    at next (/vagrant/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/vagrant/node_modules/express/lib/router/index.js:174:3)\n    at router (/vagrant/node_modules/express/lib/router/index.js:47:12)\n    at Layer.handle [as handle_request] (/vagrant/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/vagrant/node_modules/express/lib/router/index.js:317:13)\n    at /vagrant/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/vagrant/node_modules/express/lib/router/index.js:335:12)\n    at next (/vagrant/node_modules/express/lib/router/index.js:275:10)\n    at resHandler (/vagrant/servers/common_libs/res_handler/index.js:100:5)\n    at Layer.handle [as handle_request] (/vagrant/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/vagrant/node_modules/express/lib/router/index.js:317:13)","name":"ValidationError"},"validation":{"details":[{"message":"\"password\" with value \"1568sfdsf!vsf\" fails to match the required pattern: /^(?=.*\\d)(?=.*[a-z])(?=.*[A-Z])[0-9a-zA-Z]{8,30}$/","path":["password"],"type":"string.regex.base","context":{"pattern":{},"value":"1568sfdsf!vsf","key":"password","label":"password"}}]},"req":{"method":"POST","url":"/reg","body":{"login":"tetstdl","password":"1568sfdsf!vsf","email":"test@email.com"},"headers":{"host":"localhost","connection":"close","content-length":"74","user-agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:57.0) Gecko/20100101 Firefox/57.0","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br","cookie":"Webstorm-a055c715=dd799131-2d58-434b-ba36-d4ecc117610e","upgrade-insecure-requests":"1","cache-control":"max-age=0, no-cache","pragma":"no-cache","content-type":"application/json"}},"res":{"headers":{"x-dns-prefetch-control":"off","x-frame-options":"SAMEORIGIN","strict-transport-security":"max-age=15552000; includeSubDomains","x-download-options":"noopen","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","access-control-allow-origin":"*","access-control-allow-methods":"GET, POST, OPTIONS, PUT, PATCH, DELETE","access-control-allow-headers":"X-Requested-With,content-type","access-control-allow-credentials":false,"content-type":"application/json"},"status":400,"validation":{"is_valid_data_format":false,"is_unique_email":null,"is_unique_login":null}}},"level":"warn","message":"Res Handler"}
+{"dev":{"unix_time":1513776970045,"server_time":"2017-12-20T13:36:11.045Z","port":"4012","server":"pub_api","error":{"message":"child \"password\" fails because [\"password\" with value \"1568sfdsf!vsf\" fails to match the required pattern: /^(?=.*\\d)(?=.*[a-z])(?=.*[A-Z])[0-9a-zA-Z]{8,30}$/]","stack":"ValidationError: child \"password\" fails because [\"password\" with value \"1568sfdsf!vsf\" fails to match the required pattern: /^(?=.*\\d)(?=.*[a-z])(?=.*[A-Z])[0-9a-zA-Z]{8,30}$/]\n    at Object.exports.process (/vagrant/node_modules/joi/lib/errors.js:196:19)\n    at internals.Object._validateWithOptions (/vagrant/node_modules/joi/lib/types/any/index.js:668:31)\n    at module.exports.internals.Any.root.validate (/vagrant/node_modules/joi/lib/index.js:139:23)\n    at /vagrant/servers/pub_api/controllers/reg.js:20:24\n    at /vagrant/servers/common_libs/async_middleware/index.js:17:23\n    at Layer.handle [as handle_request] (/vagrant/node_modules/express/lib/router/layer.js:95:5)\n    at next (/vagrant/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/vagrant/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/vagrant/node_modules/express/lib/router/layer.js:95:5)\n    at /vagrant/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/vagrant/node_modules/express/lib/router/index.js:335:12)\n    at next (/vagrant/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/vagrant/node_modules/express/lib/router/index.js:174:3)\n    at router (/vagrant/node_modules/express/lib/router/index.js:47:12)\n    at Layer.handle [as handle_request] (/vagrant/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/vagrant/node_modules/express/lib/router/index.js:317:13)\n    at /vagrant/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/vagrant/node_modules/express/lib/router/index.js:335:12)\n    at next (/vagrant/node_modules/express/lib/router/index.js:275:10)\n    at resHandler (/vagrant/servers/common_libs/res_handler/index.js:100:5)\n    at Layer.handle [as handle_request] (/vagrant/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/vagrant/node_modules/express/lib/router/index.js:317:13)","name":"ValidationError"},"validation":{"details":[{"message":"\"password\" with value \"1568sfdsf!vsf\" fails to match the required pattern: /^(?=.*\\d)(?=.*[a-z])(?=.*[A-Z])[0-9a-zA-Z]{8,30}$/","path":["password"],"type":"string.regex.base","context":{"pattern":{},"value":"1568sfdsf!vsf","key":"password","label":"password"}}]},"req":{"method":"POST","url":"/reg","body":{"login":"tetstdl","password":"1568sfdsf!vsf","email":"test@email.com"},"headers":{"host":"localhost","connection":"close","content-length":"74","user-agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:57.0) Gecko/20100101 Firefox/57.0","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br","cookie":"Webstorm-a055c715=dd799131-2d58-434b-ba36-d4ecc117610e","upgrade-insecure-requests":"1","cache-control":"max-age=0, no-cache","pragma":"no-cache","content-type":"application/json"}},"res":{"headers":{"x-dns-prefetch-control":"off","x-frame-options":"SAMEORIGIN","strict-transport-security":"max-age=15552000; includeSubDomains","x-download-options":"noopen","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","access-control-allow-origin":"*","access-control-allow-methods":"GET, POST, OPTIONS, PUT, PATCH, DELETE","access-control-allow-headers":"X-Requested-With,content-type","access-control-allow-credentials":false,"content-type":"application/json"},"status":400,"validation":{"is_valid_data_format":false,"is_unique_email":null,"is_unique_login":null}}},"level":"warn","message":"Res Handler"}
+{"message":"Executing (default): SELECT `login`, `email` FROM `users` AS `users` WHERE (`users`.`login` = 'tetstdl' OR `users`.`email` = 'test@email.com');","level":"info"}
+{"dev":{"unix_time":1513776992962,"server_time":"2017-12-20T13:36:33.962Z","port":"4013","server":"pub_api","error":{"message":"","stack":"Error\n    at /vagrant/servers/pub_api/controllers/reg.js:41:17\n    at <anonymous>","name":"Error"},"req":{"method":"POST","url":"/reg","body":{"login":"tetstdl","password":"1568sfdsfDvsf","email":"test@email.com"},"headers":{"host":"localhost","connection":"close","content-length":"74","user-agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:57.0) Gecko/20100101 Firefox/57.0","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br","cookie":"Webstorm-a055c715=dd799131-2d58-434b-ba36-d4ecc117610e","upgrade-insecure-requests":"1","cache-control":"max-age=0, no-cache","pragma":"no-cache","content-type":"application/json"}},"res":{"headers":{"x-dns-prefetch-control":"off","x-frame-options":"SAMEORIGIN","strict-transport-security":"max-age=15552000; includeSubDomains","x-download-options":"noopen","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","access-control-allow-origin":"*","access-control-allow-methods":"GET, POST, OPTIONS, PUT, PATCH, DELETE","access-control-allow-headers":"X-Requested-With,content-type","access-control-allow-credentials":false,"content-type":"application/json"},"status":500}},"level":"error","message":"Res Handler"}
+{"message":"Executing (default): SELECT `login`, `email` FROM `users` AS `users` WHERE (`users`.`login` = 'tetstdl' OR `users`.`email` = 'test@email.com');","level":"info"}
+{"dev":{"unix_time":1513777003362,"server_time":"2017-12-20T13:36:44.362Z","port":"4011","server":"pub_api","error":{"message":"","stack":"Error\n    at /vagrant/servers/pub_api/controllers/reg.js:41:17\n    at <anonymous>","name":"Error"},"req":{"method":"POST","url":"/reg","body":{"login":"tetstdl","password":"1568sfdsfDvsf","email":"test@email.com"},"headers":{"host":"localhost","connection":"close","content-length":"74","user-agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:57.0) Gecko/20100101 Firefox/57.0","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br","cookie":"Webstorm-a055c715=dd799131-2d58-434b-ba36-d4ecc117610e","upgrade-insecure-requests":"1","cache-control":"max-age=0, no-cache","pragma":"no-cache","content-type":"application/json"}},"res":{"headers":{"x-dns-prefetch-control":"off","x-frame-options":"SAMEORIGIN","strict-transport-security":"max-age=15552000; includeSubDomains","x-download-options":"noopen","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","access-control-allow-origin":"*","access-control-allow-methods":"GET, POST, OPTIONS, PUT, PATCH, DELETE","access-control-allow-headers":"X-Requested-With,content-type","access-control-allow-credentials":false,"content-type":"application/json"},"status":500}},"level":"error","message":"Res Handler"}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4012"}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4011"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4013"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4011"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4012"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4013"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4011"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4013"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4012"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Executing (default): INSERT INTO `users` (`userId`,`login`,`email`,`password`,`status`,`createdAt`,`updatedAt`) VALUES (DEFAULT,'tetstdl','test@email.com','6d28871f1ccdc8430b612daa4595d83ed9b6e44989789a34f253584191eadebdaa0ba3f95a271058b7973aadd21831004ef7ef00eb7999d566de28c2090ccfca',0,CURRENT_TIMESTAMP,CURRENT_TIMESTAMP);","level":"info"}
+{"message":"Executing (default): SELECT `login`, `email` FROM `users` AS `users` WHERE (`users`.`login` = 'tetstdl' OR `users`.`email` = 'test@email.com');","level":"info"}
+{"dev":{"unix_time":1513777763092,"server_time":"2017-12-20T13:49:24.092Z","port":"4011","server":"pub_api","error":{"message":"","stack":"Error\n    at /vagrant/servers/pub_api/controllers/reg.js:42:17\n    at <anonymous>","name":"Error"},"req":{"method":"POST","url":"/reg","body":{"login":"tetstdl","password":"1568sfdsfDvsf","email":"test@email.com"},"headers":{"host":"localhost","connection":"close","content-length":"74","user-agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:57.0) Gecko/20100101 Firefox/57.0","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br","cookie":"Webstorm-a055c715=dd799131-2d58-434b-ba36-d4ecc117610e","upgrade-insecure-requests":"1","cache-control":"max-age=0, no-cache","pragma":"no-cache","content-type":"application/json"}},"res":{"headers":{"x-dns-prefetch-control":"off","x-frame-options":"SAMEORIGIN","strict-transport-security":"max-age=15552000; includeSubDomains","x-download-options":"noopen","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","access-control-allow-origin":"*","access-control-allow-methods":"GET, POST, OPTIONS, PUT, PATCH, DELETE","access-control-allow-headers":"X-Requested-With,content-type","access-control-allow-credentials":false,"content-type":"application/json"},"status":500}},"level":"error","message":"Res Handler"}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4011"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4012"}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4013"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4011"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4012"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4013"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4013"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"level":"info","message":"Server run on port: 4012"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4011"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4013"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"level":"info","message":"Server run on port: 4011"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4012"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4013"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4011"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4012"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4013"}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4011"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"level":"info","message":"Server run on port: 4012"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4012"}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4011"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4013"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4011"}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4013"}
+{"message":"Connected to redis","level":"info"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"level":"info","message":"Server run on port: 4012"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4011"}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4012"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4013"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Executing (default): SELECT `login`, `email` FROM `users` AS `users` WHERE (`users`.`login` = 'tetstdl' OR `users`.`email` = 'test@email.com');","level":"info"}
+{"dev":{"unix_time":1513780141224,"server_time":"2017-12-20T14:29:02.224Z","port":"4012","server":"pub_api","error":{"message":"Cannot read property 'dataValues' of undefined","stack":"TypeError: Cannot read property 'dataValues' of undefined\n    at /vagrant/servers/models/users.js:67:45\n    at Array.forEach (<anonymous>)\n    at Users.checkUniqueUser (/vagrant/servers/models/users.js:66:16)\n    at <anonymous>","name":"TypeError"},"req":{"method":"POST","url":"/reg","body":{"login":"tetstdl","password":"1568sfdsfDvsf","email":"test@email.com"},"headers":{"host":"localhost","connection":"close","content-length":"74","user-agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:57.0) Gecko/20100101 Firefox/57.0","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br","cookie":"Webstorm-a055c715=dd799131-2d58-434b-ba36-d4ecc117610e","upgrade-insecure-requests":"1","cache-control":"max-age=0, no-cache","pragma":"no-cache","content-type":"application/json"}},"res":{"headers":{"x-dns-prefetch-control":"off","x-frame-options":"SAMEORIGIN","strict-transport-security":"max-age=15552000; includeSubDomains","x-download-options":"noopen","x-content-type-options":"nosniff","x-xss-protection":"1; mode=block","access-control-allow-origin":"*","access-control-allow-methods":"GET, POST, OPTIONS, PUT, PATCH, DELETE","access-control-allow-headers":"X-Requested-With,content-type","access-control-allow-credentials":false,"content-type":"application/json"},"status":500}},"level":"error","message":"Res Handler"}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4012"}
+{"message":"Connected to redis","level":"info"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Server run on port: 4013"}
+{"message":"Connected to redis","level":"info"}
+{"level":"info","message":"Server run on port: 4011"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"level":"info","message":"Server run on port: 4013"}
+{"message":"Connected to redis (database = 4)","level":"info"}
+{"level":"info","message":"Server run on port: 4011"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"message":"Connected to redis (database = 4)","level":"info"}
+{"level":"info","message":"Server run on port: 4010"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Connected to redis (database = 4)","level":"info"}
+{"level":"info","message":"Server run on port: 4012"}
+{"message":"Connected to redis (database = 4)","level":"info"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"level":"info","message":"Server run on port: 4012"}
+{"message":"Connected to redis (database = 4)","level":"info"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"level":"info","message":"Server run on port: 4011"}
+{"message":"Connected to redis (database = 4)","level":"info"}
+{"level":"info","message":"Server run on port: 4010"}
+{"message":"Connected to redis (database = 4)","level":"info"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"level":"info","message":"Server run on port: 4013"}
+{"message":"Connected to redis (database = 4)","level":"info"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database has been established successfully."}
+{"level":"info","message":"Server run on port: 4013"}
+{"message":"Connected to redis (database = 4)","level":"info"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database (card_game) has been established successfully."}
+{"level":"info","message":"Server run on port: 4012"}
+{"message":"Connected to redis (database = 4)","level":"info"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database (card_game) has been established successfully."}
+{"level":"info","message":"Server run on port: 4010"}
+{"message":"Connected to redis (database = 4)","level":"info"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database (card_game) has been established successfully."}
+{"level":"info","message":"Server run on port: 4011"}
+{"message":"Connected to redis (database = 4)","level":"info"}
+{"message":"Executing (default): SELECT 1+1 AS result","level":"info"}
+{"level":"info","message":"Connection to the mysql database (card_game) has been established successfully."}
+{"level":"info","message":"Server run on port: 4010","timestamp":"2018-01-24T11:27:44.611Z"}
+{"level":"info","message":"Server run on port: 4011","timestamp":"2018-01-24T11:27:44.677Z"}
+{"level":"info","message":"Connected to redis (database = 4)","timestamp":"2018-01-24T11:27:44.691Z"}
+{"level":"info","message":"Connected to redis (database = 4)","timestamp":"2018-01-24T11:27:44.634Z"}
+{"level":"info","message":"Server run on port: 4012","timestamp":"2018-01-24T11:27:44.624Z"}
+{"level":"info","message":"Connected to redis (database = 4)","timestamp":"2018-01-24T11:27:44.637Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2018-01-24T11:27:44.749Z"}
+{"level":"info","message":"Connection to the mysql database (card_game) has been established successfully.","timestamp":"2018-01-24T11:27:44.753Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2018-01-24T11:27:44.761Z"}
+{"level":"info","message":"Connection to the mysql database (card_game) has been established successfully.","timestamp":"2018-01-24T11:27:44.767Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2018-01-24T11:27:44.779Z"}
+{"level":"info","message":"Connection to the mysql database (card_game) has been established successfully.","timestamp":"2018-01-24T11:27:44.786Z"}

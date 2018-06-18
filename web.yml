@@ -1,0 +1,200 @@
+- name: apply common configuration to all nodes
+  hosts: webserver
+  vars:
+      ansible_ssh_common_args: '-o StrictHostKeyChecking=no -o ConnectTimeout=50'
+      ansible_python_interpreter: "/usr/bin/python3"
+      ansible_host: 192.168.50.10
+      ansible_port: 22
+      ansible_ssh_private_key_file: /vagrant/.vagrant/machines/subject/virtualbox/private_key
+  user: vagrant
+  become: yes
+
+  tasks:
+   - name: Update apt cache
+     apt: update_cache=yes
+
+   - name: Install required packages
+     apt: name={{ item }} update_cache=yes state=latest
+     with_items:
+       - nginx
+       - curl
+       - git
+
+       - python3-mysqldb
+       - mysql-server
+       - python3-pip
+       - python3-matplotlib # for neural net
+
+       - redis-server
+
+       # for NVM
+       - libssl-dev
+       - build-essential
+
+   - name: upgrade pip
+     pip:
+       name: "pip"
+       state: latest
+     ignore_errors: True
+
+   - name: upgrade pip
+     pip:
+       name: "pip"
+       state: latest
+
+# For Ubuntu 16
+#   - name: upgrade pip
+#     pip:
+#       name:  "{{ item }}"
+#       executable: pip3
+#     with_items:
+#       - "--upgrade pip"
+
+   # for neural net
+   - name: Install python libraries
+     pip:
+        name:  "{{ item }}"
+        executable: pip3
+     with_items:
+       - aiohttp
+       - cchardet
+       - aiodns
+       - sqlalchemy
+       - aiomysql
+       - python-socketio
+
+       - gensim
+       - sklearn
+       - pandas
+       - nltk
+       - pyemd
+       - jupyter
+
+   # NGINX
+   - name: Copy nginx config
+     template: src=/vagrant/nginx.conf dest=/etc/nginx/nginx.conf
+#     become_user: ubuntu
+#     become: yes
+
+   - name: restart nginx
+     service: name=nginx state=restarted enabled=yes
+#     become_user: ubuntu
+#     become: yes
+
+   # MYSQL
+   - name: Configure mysqld.cnf file for working with vagrant
+     ini_file:
+       path: /etc/mysql/mysql.conf.d/mysqld.cnf
+       section: mysqld
+       option: bind-address
+       value: 0.0.0.0
+
+   - name: Create admin user
+     mysql_user:
+       name: admin
+       host: "%"
+       password: "admin"
+       login_user: admin
+       login_password: "admin"
+       check_implicit_admin: yes
+       priv: "*.*:ALL,GRANT"
+
+   - name: Create a new database with name 'card_game'
+     mysql_db:
+       name: card_game
+       state: present
+
+   - name: Create a new database with name 'card_game_dev'
+     mysql_db:
+       name: card_game_dev
+       state: present
+
+   - name: Create a new database with name 'card_game_test'
+     mysql_db:
+       name: card_game_test
+       state: present
+
+   - name: restart mysql
+     service: name=mysql state=restarted
+
+#   - name: Stop MySQL
+#     service: name=mysql state=stopped
+#
+#   - name: set environment variables
+#     shell: systemctl set-environment MYSQLD_OPTS="--skip-grant-tables"
+#
+#   - name: Start MySQL
+#     service: name=mysql state=started
+#
+#   - name: sql query
+#     command:  mysql -u root --execute="create user IF NOT EXISTS 'root'@'%' identified by 'root';
+#                                        grant all privileges on *.* to 'root'@'%' with grant option;
+#                                        UPDATE mysql.user SET authentication_string = PASSWORD('root'), plugin = 'mysql_native_password' WHERE User = 'root' AND Host = 'localhost';
+#                                        CREATE DATABASE IF NOT EXISTS card_game
+#                                          DEFAULT CHARACTER SET utf8
+#                                          DEFAULT COLLATE utf8_general_ci;"
+#
+#   - name: sql query flush
+#     command:  mysql -u root --execute="FLUSH PRIVILEGES"
+#
+#   - name: Stop MySQL
+#     service: name=mysql state=stopped
+#
+#   - name: unset environment variables
+#     shell: systemctl unset-environment MYSQLD_OPTS
+#
+#   - name: Start MySQL
+#     service: name=mysql state=started
+
+   # REDIS
+   - name: Dowload config file
+     get_url:
+      url: http://download.redis.io/redis-stable/redis.conf
+      dest: /etc/init/redis.conf
+
+   - name: Change config file
+     lineinfile:
+       dest: /etc/init/redis.conf
+       regexp: '^bind 127.0.0.1'
+       insertbefore: BOF
+       line: 'bind 0.0.0.0'
+
+   - name: Restart redis
+     service: name=redis state=restarted
+
+   # NODE
+   - name: Create directory ~/.nvm
+     file:
+      path: "~/.nvm"
+      state: directory
+     become_user: vagrant
+     become: yes
+
+   - name: Dowload NVM
+     git: repo=https://github.com/creationix/nvm.git dest=~/.nvm version=v0.33.8
+     become: yes
+     become_user: vagrant
+
+   - name: Source nvm in ~/.profile
+     lineinfile: >
+       dest=~/.profile
+       line="source ~/.nvm/nvm.sh"
+       create=yes
+     become: yes
+     become_user: vagrant
+
+   - name: Install node v9.11.1
+     shell: source ~/.nvm/nvm.sh && nvm install v9.11.1
+     args:
+      executable: /bin/bash
+     become: yes
+     become_user: vagrant
+
+   - name: Install NPM
+     apt:
+       name: npm
+       update_cache: yes
+
+   - name: Install packages based on package.json.
+     npm:
+       path: /vagrant

@@ -1,0 +1,18 @@
+header > div {
+	background-color: rgba(255, 251, 250, 0.8);
+}
+header > div > a:first-child {
+	background-image: url("https://www.itechart.by/static/svg/logo.2174834b5f96.svg?fd8b4a78220f");
+}
+header > div > h1 {
+	color: rgb(57, 66, 103);
+}
+header > div > nav > ul li a {
+	color: rgb(57, 66, 103);
+}
+header > div > nav > ul li a:hover {
+	color: rgb(240, 171, 139); text-decoration: none;
+}
+header > div > nav > ul li a:focus {
+	color: rgb(240, 171, 139); text-decoration: none;
+}

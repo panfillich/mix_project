@@ -1,0 +1,49 @@
+{"level":"info","message":"Server run on port: 3012","timestamp":"2018-06-13T11:22:20.312Z"}
+{"level":"info","message":"Connected to redis (database = 3)","timestamp":"2018-06-13T11:22:20.474Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2018-06-13T11:22:20.541Z"}
+{"level":"info","message":"Connection to the mysql database (card_game_dev) has been established successfully.","timestamp":"2018-06-13T11:22:20.551Z"}
+{"level":"info","message":"Server run on port: 3012","timestamp":"2018-06-13T11:23:45.843Z"}
+{"level":"info","message":"Connected to redis (database = 3)","timestamp":"2018-06-13T11:23:45.932Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2018-06-13T11:23:46.147Z"}
+{"level":"info","message":"Connection to the mysql database (card_game_dev) has been established successfully.","timestamp":"2018-06-13T11:23:46.158Z"}
+{"level":"info","message":"Server run on port: 3012","timestamp":"2018-06-13T11:24:37.419Z"}
+{"level":"info","message":"Connected to redis (database = 3)","timestamp":"2018-06-13T11:24:37.505Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2018-06-13T11:24:37.692Z"}
+{"level":"info","message":"Connection to the mysql database (card_game_dev) has been established successfully.","timestamp":"2018-06-13T11:24:37.699Z"}
+{"level":"info","message":"Server run on port: 3012","timestamp":"2018-06-13T11:26:46.739Z"}
+{"level":"info","message":"Connected to redis (database = 3)","timestamp":"2018-06-13T11:26:46.810Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2018-06-13T11:26:46.983Z"}
+{"level":"info","message":"Connection to the mysql database (card_game_dev) has been established successfully.","timestamp":"2018-06-13T11:26:47.009Z"}
+{"level":"warn","message":"reconnecting","timestamp":"2018-06-13T11:28:56.110Z"}
+{"level":"info","message":"Server run on port: 3012","timestamp":"2018-06-13T11:32:19.016Z"}
+{"level":"info","message":"Connected to redis (database = 3)","timestamp":"2018-06-13T11:32:19.041Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2018-06-13T11:32:19.186Z"}
+{"level":"info","message":"Connection to the mysql database (card_game_dev) has been established successfully.","timestamp":"2018-06-13T11:32:19.189Z"}
+{"level":"info","message":"Server run on port: 3012","timestamp":"2018-06-13T11:33:57.033Z"}
+{"level":"info","message":"Connected to redis (database = 3)","timestamp":"2018-06-13T11:33:57.106Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2018-06-13T11:33:57.319Z"}
+{"level":"info","message":"Connection to the mysql database (card_game_dev) has been established successfully.","timestamp":"2018-06-13T11:33:57.327Z"}
+{"level":"info","message":"Server run on port: 3012","timestamp":"2018-06-13T11:35:21.689Z"}
+{"level":"info","message":"Connected to redis (database = 3)","timestamp":"2018-06-13T11:35:21.746Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2018-06-13T11:35:21.916Z"}
+{"level":"info","message":"Connection to the mysql database (card_game_dev) has been established successfully.","timestamp":"2018-06-13T11:35:21.930Z"}
+{"level":"info","message":"Server run on port: 3012","timestamp":"2018-06-13T11:36:42.628Z"}
+{"level":"info","message":"Connected to redis (database = 3)","timestamp":"2018-06-13T11:36:42.668Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2018-06-13T11:36:42.825Z"}
+{"level":"info","message":"Connection to the mysql database (card_game_dev) has been established successfully.","timestamp":"2018-06-13T11:36:42.832Z"}
+{"level":"info","message":"Server run on port: 3012","timestamp":"2018-06-13T11:37:56.103Z"}
+{"level":"info","message":"Connected to redis (database = 3)","timestamp":"2018-06-13T11:37:56.279Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2018-06-13T11:37:56.501Z"}
+{"level":"info","message":"Connection to the mysql database (card_game_dev) has been established successfully.","timestamp":"2018-06-13T11:37:56.528Z"}
+{"level":"info","message":"Server run on port: 3012","timestamp":"2018-06-13T11:40:32.664Z"}
+{"level":"info","message":"Connected to redis (database = 3)","timestamp":"2018-06-13T11:40:32.707Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2018-06-13T11:40:32.873Z"}
+{"level":"info","message":"Connection to the mysql database (card_game_dev) has been established successfully.","timestamp":"2018-06-13T11:40:32.877Z"}
+{"level":"info","message":"Server run on port: 3012","timestamp":"2018-06-13T16:00:52.447Z"}
+{"level":"info","message":"Connected to redis (database = 3)","timestamp":"2018-06-13T16:00:52.513Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2018-06-13T16:00:52.704Z"}
+{"level":"info","message":"Connection to the mysql database (card_game_dev) has been established successfully.","timestamp":"2018-06-13T16:00:52.714Z"}
+{"level":"info","message":"Server run on port: 3012","timestamp":"2018-06-13T16:41:36.107Z"}
+{"level":"info","message":"Connected to redis (database = 3)","timestamp":"2018-06-13T16:41:36.151Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2018-06-13T16:41:36.311Z"}
+{"level":"info","message":"Connection to the mysql database (card_game_dev) has been established successfully.","timestamp":"2018-06-13T16:41:36.325Z"}

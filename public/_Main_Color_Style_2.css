@@ -1,0 +1,45 @@
+main > div {
+	background-color: rgba(255, 251, 250, 0.8);
+}
+#section_3_2_body > section:first-child {
+	background-color: rgba(150, 194, 226, 1);
+}
+#section_3_2_body > section:last-child {
+	background-color: rgba(150, 194, 226, 1);
+}
+#section_1 {
+	background-color: rgba(250, 244, 205, 0.3);
+}
+#CloseAddMenuGroup {
+	background-color: rgba(250, 244, 205, 0.3);
+}
+#section_3 > div {
+	background-color: rgba(215, 224, 235, 0.9);
+}
+#section_3_1 {
+	background-color: white;
+}
+#section_3_2 > div {
+	background-color: white;
+}
+#CloseAddMenuGroup:hover {
+	background-color: rgba(240, 171, 139, 0.8);
+}
+#section_1 {
+	border: 1px solid rgb(92, 117, 152); border-image: none;
+}
+#section_3_1 {
+	border: 1px solid rgb(92, 117, 152); border-image: none;
+}
+#section_3_2_body > section:first-child {
+	border: 1px solid rgb(92, 117, 152); border-image: none;
+}
+#section_3_2_body > section:last-child {
+	border: 1px solid rgb(92, 117, 152); border-image: none;
+}
+#CloseAddMenuGroup {
+	border: 1px solid rgb(92, 117, 152); border-image: none;
+}
+#section_3_2 > div {
+	border-top-color: rgb(92, 117, 152); border-bottom-color: rgb(92, 117, 152); border-left-color: rgb(92, 117, 152); border-top-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-bottom-style: solid; border-left-style: solid;
+}
