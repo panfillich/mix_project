@@ -1,4 +1,0 @@
-{"level":"info","message":"Server run on port: 3012","timestamp":"2018-02-06T12:58:53.118Z"}
-{"level":"info","message":"Connected to redis (database = 3)","timestamp":"2018-02-06T12:58:53.158Z"}
-{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2018-02-06T12:58:53.300Z"}
-{"level":"info","message":"Connection to the mysql database (card_game_dev) has been established successfully.","timestamp":"2018-02-06T12:58:53.307Z"}
